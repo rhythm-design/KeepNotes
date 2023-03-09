@@ -57,7 +57,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-  gh repo clone rhythm-design/KeepNotes
+    gh repo clone rhythm-design/KeepNotes
    ```
 2. Install NPM packages
    ```sh
